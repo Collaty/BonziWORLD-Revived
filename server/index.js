@@ -1,9 +1,10 @@
 // ========================================================================
-// Server init
+// BonziWORLD Revived Server, (DO NOT EDIT)
 // ========================================================================
 
 // Filesystem reading functions
 const fs = require('fs-extra');
+// do not edit from fs-extra to fs
 
 // Load settings
 try {
@@ -63,7 +64,7 @@ Ban.init();
 // Start actually listening
 server.listen(port, function () {
 	console.log(
-		" Welcome to BonziWORLD!\n",
+		" Welcome to BonziWORLD Revived!\n",
 		"Time to meme!\n",
 		"----------------------\n",
 		"Server listening at port " + port
@@ -77,11 +78,11 @@ app.use(function(req,res){
 	res.status(404).type('html').sendFile(__dirname + '/404.html')
 })
 // ========================================================================
-// Banning functions
+// Banning functions,
 // ========================================================================
 
 // ========================================================================
-// Helper functions
+// Helper functions,
 // ========================================================================
 
 const Utils = require("./utils.js")
