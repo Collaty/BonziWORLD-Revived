@@ -1,3 +1,4 @@
+That project has been closed down due to ICS hating this wesite. But, this fork will be not archived right now.
 # BonziWORLD Revived, Leading the revived gorilla clients.
 
 
@@ -16,7 +17,6 @@ In a terminal/command prompt, navigate to where you'd like BonziWORLD to be plac
 git clone https://github.com/adelamint/BonziWORLD-Revived
 cd BonziWORLD-Revived
 ```
-
 ### Server
 ```
 cd server
