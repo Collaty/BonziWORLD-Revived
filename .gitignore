@@ -1,5 +1,5 @@
 src/.sass-cache/**
-src/.corrupt-no/**
+
 src/cordova/platforms/**
 src/cordova/node_modules/**
 src/cordova/plugins/**
