@@ -1,4 +1,4 @@
-<strike>That project has been closed down due to ICS hating this wesite. But, this fork will be not archived right now.</strike>
+<strike>That project has been closed down due to ICS hating this wesite. But, this fork will be not archived right now.</strike> Never mind its brought back.
 # BonziWORLD Revived, Leading the revived gorilla clients.
 
 
